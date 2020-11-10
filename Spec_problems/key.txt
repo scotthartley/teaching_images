@@ -1,0 +1,6 @@
+001: 4-Methylbenzaldehyde
+002: 3-Hexanol
+003: t-Butyl benzoate
+004: 3-Methyl-2-pentanone
+005: (1-Bromoethyl)benzene
+006: (2-Chloroethyl)benzene
